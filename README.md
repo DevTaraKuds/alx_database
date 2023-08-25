@@ -1,0 +1,1 @@
+This folder is intended to highlight practices for the use og Databases, Data Manipulation Languages(DML) etc
